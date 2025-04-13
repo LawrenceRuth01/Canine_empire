@@ -1,0 +1,17 @@
+{
+    "name": "ruth/george1",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ruth\\George1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ruth"
+        }
+    ],
+    "require": {}
+}
